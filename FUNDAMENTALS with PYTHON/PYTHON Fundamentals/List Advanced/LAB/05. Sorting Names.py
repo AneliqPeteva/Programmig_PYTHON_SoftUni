@@ -1,5 +1,6 @@
-name = input().split(", ")
+def sort_names():
+    name = input().split(", ")
 
-sort_name = sorted(name, key=lambda x: (-len(x), x))
+    return sorted(name, key=lambda x: (-len(x), x))
 
-print(sort_name)
+print(sort_names())
