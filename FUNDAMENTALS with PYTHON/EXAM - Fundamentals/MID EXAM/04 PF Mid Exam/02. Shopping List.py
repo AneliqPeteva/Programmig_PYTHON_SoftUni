@@ -21,6 +21,3 @@ while command != "Go Shopping!":
 print(", ".join(list_with_groceries))
 
 
-
-
-

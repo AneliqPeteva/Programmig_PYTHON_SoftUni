@@ -112,3 +112,12 @@ for i, lesson in enumerate(schedule, 1):
 
 
 
+def handle_course_start(current_schedule, current_exercises):
+    for i in range(len(current_schedule)):
+        for element in current_exercises:
+            if element == current_schedule[i]:
+                current_schedule.insert(i + 1, f'{element}-Exercise')
+
+    for i in range(len(current_schedule)):
+        print(f"{i + 1}.{current_schedule[i]}")
+
