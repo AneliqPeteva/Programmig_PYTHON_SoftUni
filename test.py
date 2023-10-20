@@ -54,31 +54,55 @@
 # print(*moving_target, sep="|")
 
 # 4.3
-house_of_neighbors = [int(num) for num in input().split("@")]
-input_line = input()
-start_index = 0
-current_index = 0
-while input_line != "Love!":
-    jump = input_line.split()
-    index = int(jump[1])
-    current_index += index
-    if current_index not in range(len(house_of_neighbors)):
-        current_index = 0
-    if house_of_neighbors[current_index] >= 2:
-        house_of_neighbors[current_index] -= 2
-        if house_of_neighbors[current_index] == 0:
-            print(f"Place {current_index} has Valentine's day.")
-    elif house_of_neighbors[current_index] == 0:
-        print(f"Place {current_index} already had Valentine's day.")
+# house_of_neighbors = [int(num) for num in input().split("@")]
+# input_line = input()
+# start_index = 0
+# current_index = 0
+# while input_line != "Love!":
+#     jump = input_line.split()
+#     index = int(jump[1])
+#     current_index += index
+#     if current_index not in range(len(house_of_neighbors)):
+#         current_index = 0
+#     if house_of_neighbors[current_index] >= 2:
+#         house_of_neighbors[current_index] -= 2
+#         if house_of_neighbors[current_index] == 0:
+#             print(f"Place {current_index} has Valentine's day.")
+#     elif house_of_neighbors[current_index] == 0:
+#         print(f"Place {current_index} already had Valentine's day.")
+#
+#     input_line = input()
+#
+# print(f"Cupid's last position was {current_index}.")
+# if sum(house_of_neighbors) == 0:
+#     print(f"Mission was successful.")
+# else:
+#     count_house = 0
+#     for house in house_of_neighbors:
+#         if house != 0:
+#             count_house += 1
+#     print(f"Cupid has failed {count_house} places.")
 
-    input_line = input()
+# 2.2
 
-print(f"Cupid's last position was {current_index}.")
-if sum(house_of_neighbors) == 0:
-    print(f"Mission was successful.")
-else:
-    count_house = 0
-    for house in house_of_neighbors:
-        if house != 0:
-            count_house += 1
-    print(f"Cupid has failed {count_house} places.")
+
+def students_per_hour(employee1, employee2, employee3, total_students):
+    total_students_per_hour = employee1 + employee2 + employee3
+    left_students = total_students
+
+    for hour in range(1, 25):
+        if hour % 4 != 0:
+            left_students -= total_students_per_hour
+
+        if left_students <= 0:
+            return hour
+
+
+employee_1 = int(input())
+employee_2 = int(input())
+employee_3 = int(input())
+
+total_students_with_questions = int(input())
+
+result = students_per_hour(employee_1, employee_2, employee_3, total_students_with_questions)
+print(f"Time needed: {result}h.")

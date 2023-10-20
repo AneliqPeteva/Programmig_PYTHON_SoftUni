@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcc3c8cb-c7b7-49f5-a2e8-73091c729592" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/01. Bakery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/03 Statistics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/04. Students.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/02. Stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/02. Stock.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +62,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.01. Bakery">
+  <component name="RunManager" selected="Python.04. Students">
     <configuration name="01. Bakery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Email" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. Stock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Objects and Classes/LAB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Objects and Classes/LAB/03. Email.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/02. Stock.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04. Zoo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03 Statistics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Objects and Classes/LAB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Objects and Classes/LAB/04. Zoo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/03 Statistics.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05. Circle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04. Students" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Objects and Classes/LAB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Objects and Classes/LAB/05. Circle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/04. Students.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01. Bakery" />
+        <item itemvalue="Python.04. Students" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.05. Circle" />
-        <item itemvalue="Python.04. Zoo" />
-        <item itemvalue="Python.03. Email" />
+        <item itemvalue="Python.03 Statistics" />
+        <item itemvalue="Python.02. Stock" />
+        <item itemvalue="Python.01. Bakery" />
       </list>
     </recent_temporary>
   </component>
@@ -433,7 +435,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697703300574</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="add">
+      <option name="closed" value="true" />
+      <created>1697716724625</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1697716724625</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -692,6 +702,11 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Objects and Classes/LAB/04. Zoo.py</url>
           <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/04. Students.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="84" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
