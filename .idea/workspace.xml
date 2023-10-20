@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcc3c8cb-c7b7-49f5-a2e8-73091c729592" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/03 Statistics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/04. Students.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/02. Stock.py" beforeDir="false" afterPath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/02. Stock.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/05. ASCII Values.py" beforeDir="false" afterPath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/05. ASCII Values.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,28 +59,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.04. Students">
-    <configuration name="01. Bakery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programmig_PYTHON_SoftUni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/01. Bakery.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.05. ASCII Values">
     <configuration name="02. Stock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,6 +123,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="05. ASCII Values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programmig_PYTHON_SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/05. ASCII Values.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.05. ASCII Values" />
         <item itemvalue="Python.04. Students" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.03 Statistics" />
         <item itemvalue="Python.02. Stock" />
-        <item itemvalue="Python.01. Bakery" />
       </list>
     </recent_temporary>
   </component>
@@ -443,7 +440,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697716724625</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="add">
+      <option name="closed" value="true" />
+      <created>1697831753848</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1697831753848</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -707,6 +712,11 @@
           <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/04. Students.py</url>
           <line>3</line>
           <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/05. ASCII Values.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="85" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
