@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcc3c8cb-c7b7-49f5-a2e8-73091c729592" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/07. Word Synonyms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023/01. The Hunting Games.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023/02. Coffee Lover.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023/03. Phone Shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/тест 1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/06. Odd Occurrences.py" beforeDir="false" afterPath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/06. Odd Occurrences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +63,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.06. Odd Occurrences">
-    <configuration name="03 Statistics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.тест 1">
+    <configuration name="тест 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/03 Statistics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/тест 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04. Students" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01. The Hunting Games" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/04. Students.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023/01. The Hunting Games.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05. ASCII Values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. Coffee Lover" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/05. ASCII Values.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023/02. Coffee Lover.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06. Odd Occurrences" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Phone Shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/06. Odd Occurrences.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023/03. Phone Shop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.06. Odd Occurrences" />
-        <item itemvalue="Python.05. ASCII Values" />
-        <item itemvalue="Python.04. Students" />
+        <item itemvalue="Python.тест 1" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.03 Statistics" />
+        <item itemvalue="Python.01. The Hunting Games" />
+        <item itemvalue="Python.03. Phone Shop" />
+        <item itemvalue="Python.02. Coffee Lover" />
       </list>
     </recent_temporary>
   </component>
@@ -457,7 +460,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697835516187</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="add">
+      <option name="closed" value="true" />
+      <created>1697916768815</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1697916768815</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -731,6 +742,31 @@
           <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/06. Odd Occurrences.py</url>
           <line>3</line>
           <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023/02. Coffee Lover.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023/03. Phone Shop.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>175</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>215</line>
+          <option name="timeStamp" value="96" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
