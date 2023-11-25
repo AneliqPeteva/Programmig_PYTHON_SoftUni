@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcc3c8cb-c7b7-49f5-a2e8-73091c729592" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023/01. The Hunting Games.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023/02. Coffee Lover.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023/03. Phone Shop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/тест 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/MORE EXERCISE/04. Snow White.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/тест 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/тест 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,8 +60,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.тест 1">
-    <configuration name="тест 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.04. Snow White">
+    <configuration name="01. World Tour" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/2 Programming Fundamentals Final Exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/тест 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/2 Programming Fundamentals Final Exam/01. World Tour.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01. The Hunting Games" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. Fancy Barcodes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/1 FINAL EXAM PREPARATION" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023/01. The Hunting Games.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/1 FINAL EXAM PREPARATION/02. Fancy Barcodes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02. Coffee Lover" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Need for Speed III" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/1 FINAL EXAM PREPARATION" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023/02. Coffee Lover.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/1 FINAL EXAM PREPARATION/03. Need for Speed III.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Phone Shop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. P!rates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/2 Programming Fundamentals Final Exam" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023/03. Phone Shop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/2 Programming Fundamentals Final Exam/03. P!rates.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04. Snow White" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/MORE EXERCISE" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/MORE EXERCISE/04. Snow White.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.тест 1" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.01. The Hunting Games" />
-        <item itemvalue="Python.03. Phone Shop" />
-        <item itemvalue="Python.02. Coffee Lover" />
+        <item itemvalue="Python.04. Snow White" />
+        <item itemvalue="Python.03. P!rates" />
+        <item itemvalue="Python.01. World Tour" />
+        <item itemvalue="Python.03. Need for Speed III" />
+        <item itemvalue="Python.02. Fancy Barcodes" />
       </list>
     </recent_temporary>
   </component>
@@ -187,78 +184,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695275761933</updated>
-    </task>
-    <task id="LOCAL-00001" summary="add">
-      <option name="closed" value="true" />
-      <created>1695799531570</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1695799531571</updated>
-    </task>
-    <task id="LOCAL-00002" summary="add">
-      <option name="closed" value="true" />
-      <created>1695800108366</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1695800108366</updated>
-    </task>
-    <task id="LOCAL-00003" summary="add">
-      <option name="closed" value="true" />
-      <created>1695806763208</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1695806763208</updated>
-    </task>
-    <task id="LOCAL-00004" summary="add">
-      <option name="closed" value="true" />
-      <created>1695811420572</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1695811420572</updated>
-    </task>
-    <task id="LOCAL-00005" summary="add">
-      <option name="closed" value="true" />
-      <created>1695887834480</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1695887834480</updated>
-    </task>
-    <task id="LOCAL-00006" summary="add">
-      <option name="closed" value="true" />
-      <created>1695891906290</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1695891906290</updated>
-    </task>
-    <task id="LOCAL-00007" summary="add">
-      <option name="closed" value="true" />
-      <created>1696016338713</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1696016338713</updated>
-    </task>
-    <task id="LOCAL-00008" summary="add">
-      <option name="closed" value="true" />
-      <created>1696186526147</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1696186526147</updated>
-    </task>
-    <task id="LOCAL-00009" summary="add">
-      <option name="closed" value="true" />
-      <created>1696273021693</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1696273021693</updated>
     </task>
     <task id="LOCAL-00010" summary="add">
       <option name="closed" value="true" />
@@ -468,7 +393,191 @@
       <option name="project" value="LOCAL" />
       <updated>1697916768815</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="add">
+      <option name="closed" value="true" />
+      <created>1698062983392</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1698062983392</updated>
+    </task>
+    <task id="LOCAL-00037" summary="add">
+      <option name="closed" value="true" />
+      <created>1698351280013</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1698351280013</updated>
+    </task>
+    <task id="LOCAL-00038" summary="add">
+      <option name="closed" value="true" />
+      <created>1698438897608</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1698438897608</updated>
+    </task>
+    <task id="LOCAL-00039" summary="add">
+      <option name="closed" value="true" />
+      <created>1698441839512</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1698441839512</updated>
+    </task>
+    <task id="LOCAL-00040" summary="add">
+      <option name="closed" value="true" />
+      <created>1698521430406</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1698521430406</updated>
+    </task>
+    <task id="LOCAL-00041" summary="add">
+      <option name="closed" value="true" />
+      <created>1698670516715</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1698670516715</updated>
+    </task>
+    <task id="LOCAL-00042" summary="add">
+      <option name="closed" value="true" />
+      <created>1698673767645</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1698673767645</updated>
+    </task>
+    <task id="LOCAL-00043" summary="add">
+      <option name="closed" value="true" />
+      <created>1698698242837</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1698698242837</updated>
+    </task>
+    <task id="LOCAL-00044" summary="add">
+      <option name="closed" value="true" />
+      <created>1698758461317</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1698758461317</updated>
+    </task>
+    <task id="LOCAL-00045" summary="add">
+      <option name="closed" value="true" />
+      <created>1699129400821</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1699129400821</updated>
+    </task>
+    <task id="LOCAL-00046" summary="add">
+      <option name="closed" value="true" />
+      <created>1699131534382</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1699131534382</updated>
+    </task>
+    <task id="LOCAL-00047" summary="add">
+      <option name="closed" value="true" />
+      <created>1699135515200</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1699135515200</updated>
+    </task>
+    <task id="LOCAL-00048" summary="add">
+      <option name="closed" value="true" />
+      <created>1699905411680</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1699905411681</updated>
+    </task>
+    <task id="LOCAL-00049" summary="add">
+      <option name="closed" value="true" />
+      <created>1699993586920</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1699993586920</updated>
+    </task>
+    <task id="LOCAL-00050" summary="add">
+      <option name="closed" value="true" />
+      <created>1700134555367</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1700134555368</updated>
+    </task>
+    <task id="LOCAL-00051" summary="add">
+      <option name="closed" value="true" />
+      <created>1700252637175</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1700252637175</updated>
+    </task>
+    <task id="LOCAL-00052" summary="add">
+      <option name="closed" value="true" />
+      <created>1700260286664</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1700260286664</updated>
+    </task>
+    <task id="LOCAL-00053" summary="add">
+      <option name="closed" value="true" />
+      <created>1700264004668</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1700264004668</updated>
+    </task>
+    <task id="LOCAL-00054" summary="add">
+      <option name="closed" value="true" />
+      <created>1700345323420</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1700345323420</updated>
+    </task>
+    <task id="LOCAL-00055" summary="add">
+      <option name="closed" value="true" />
+      <created>1700658411417</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1700658411417</updated>
+    </task>
+    <task id="LOCAL-00056" summary="add">
+      <option name="closed" value="true" />
+      <created>1700943020732</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1700943020732</updated>
+    </task>
+    <task id="LOCAL-00057" summary="add">
+      <option name="closed" value="true" />
+      <created>1700948432122</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1700948432122</updated>
+    </task>
+    <task id="LOCAL-00058" summary="add">
+      <option name="closed" value="true" />
+      <created>1700948615053</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1700948615053</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -729,11 +838,6 @@
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/04. Students.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="84" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/05. ASCII Values.py</url>
           <line>1</line>
           <option name="timeStamp" value="85" />
@@ -742,11 +846,6 @@
           <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/06. Odd Occurrences.py</url>
           <line>3</line>
           <option name="timeStamp" value="86" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <line>89</line>
-          <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_MID_EXAM_22102023/02. Coffee Lover.py</url>
@@ -759,16 +858,223 @@
           <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <line>175</line>
-          <option name="timeStamp" value="94" />
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/EXERCISE/02. A Miner Task.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="98" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test.py</url>
-          <line>215</line>
-          <option name="timeStamp" value="96" />
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/EXERCISE/04. Phonebook.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/EXERCISE/05. Legendary Farming.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/EXERCISE/06. Orders.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/EXERCISE/12. SoftUni Exam Results.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/EXERCISE/10. Company Users.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/EXERCISE/11. Force Book.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/EXERCISE/09. Student Academy.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/EXERCISE/07. SoftUni Parking.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/MORE EXERCISE/01. Ranking.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/MORE EXERCISE/01. Ranking.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/тест 1.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/MORE EXERCISE/02. Judge.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/MORE EXERCISE/03. MOBA Challenger.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Text Processing/LAB/02. Repeat Strings.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Text Processing/LAB/03. Substring.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Text Processing/EXERCISE/03. Extract File.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Text Processing/EXERCISE/08. Letters Change Numbers.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Text Processing/EXERCISE/08. Letters Change Numbers.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Text Processing/MORE EXERCISE/01. Extract Person Information.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Text Processing/MORE EXERCISE/03. Treasure Finder.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Text Processing/MORE EXERCISE/03. Treasure Finder.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Text Processing/MORE EXERCISE/04. Morse Code Translator.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/MORE EXERCISE/04. Snow White.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/04. Students.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/тест 1.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/MORE EXERCISE/04. Snow White.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Regular Expressions/MORE EXERCISE/02. SoftUni Bar Income.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/EXAM - Fundamentals/FINAL EXAM/01 Programming Fundamentals Final Exam Retake/01. The Imitation Game.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/EXAM - Fundamentals/FINAL EXAM/01 Programming Fundamentals Final Exam Retake/02. Ad Astra.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/EXAM - Fundamentals/FINAL EXAM/01 Programming Fundamentals Final Exam Retake/02. Ad Astra.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/EXAM - Fundamentals/FINAL EXAM/01 Programming Fundamentals Final Exam Retake/03. The Pianist.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/EXAM - Fundamentals/FINAL EXAM/01 Programming Fundamentals Final Exam Retake/03. The Pianist.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/EXAM - Fundamentals/FINAL EXAM/02 Programming Fundamentals Final Exam/01. World Tour.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/EXAM - Fundamentals/FINAL EXAM/02 Programming Fundamentals Final Exam/02. Destination Mapper.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/EXAM - Fundamentals/FINAL EXAM/02 Programming Fundamentals Final Exam/03. Plant Discovery.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/EXAM - Fundamentals/FINAL EXAM/02 Programming Fundamentals Final Exam/03. Plant Discovery.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/1 FINAL EXAM PREPARATION/02. Fancy Barcodes.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/1 FINAL EXAM PREPARATION/03. Need for Speed III.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/2 Programming Fundamentals Final Exam/01. World Tour.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/2 Programming Fundamentals Final Exam/03. P!rates.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/MORE EXERCISE/04. Snow White.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="158" />
         </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <inline-watch fileUrl="file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/List Advanced/EXERCISE/08. Decipher This!.py" line="3">
