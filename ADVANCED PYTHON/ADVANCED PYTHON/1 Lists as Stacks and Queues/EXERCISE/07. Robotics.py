@@ -1,11 +1,11 @@
 from collections import deque
 from datetime import datetime, timedelta
 
-robot = {}
+robots = {}
 
-for rob in input().split(";"):
-    name, time_needed = rob.split("-")
-    robot[name] = [int(time_needed), 0]
+for r in input().split(";"):
+    name, time_needed = r.split("-")
+    robots[name] = [int(time_needed), 0]
 
 factory_time = datetime.strptime(input(), "%H:%M:%S")
 products = deque()
@@ -16,7 +16,7 @@ while True:
     if product == "End":
         break
 
-    product.append(products)
+    products.append(product)
 
 while products:
     factory_time += timedelta(0, 1)
@@ -24,8 +24,18 @@ while products:
 
     free_robots = []
 
-    for name, value in robot.items():
+    for name, value in robots.items():
         if value[1] != 0:
-            robot[name][1] -= 1
+            robots[name][1] -= 1
 
-print(factory_time)
+        if value[1] == 0:
+            free_robots.append([name, value])
+
+    if not free_robots:
+        products.append(product)
+        continue
+
+    robot_name, data = free_robots[0]
+    robots[robot_name][1] = data[0]
+
+    print(f"{robot_name} - {product} [{factory_time.strftime('%H:%M:%S')}]")
