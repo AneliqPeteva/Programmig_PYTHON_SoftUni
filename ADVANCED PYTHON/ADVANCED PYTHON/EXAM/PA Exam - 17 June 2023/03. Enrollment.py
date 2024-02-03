@@ -17,25 +17,25 @@ def gather_credits(max_credits, *args):
 
 
 
-print(gather_credits(
-    80,
-    ("Basics", 27),
-))
-
-print(gather_credits(
-    80,
-    ("Advanced", 30),
-    ("Basics", 27),
-    ("Fundamentals", 27),
-))
-
-print(gather_credits(
-    60,
-    ("Basics", 27),
-    ("Fundamentals", 27),
-    ("Advanced", 30),
-    ("Web", 30)
-))
+# print(gather_credits(
+#     80,
+#     ("Basics", 27),
+# ))
+#
+# print(gather_credits(
+#     80,
+#     ("Advanced", 30),
+#     ("Basics", 27),
+#     ("Fundamentals", 27),
+# ))
+#
+# print(gather_credits(
+#     60,
+#     ("Basics", 27),
+#     ("Fundamentals", 27),
+#     ("Advanced", 30),
+#     ("Web", 30)
+# ))
 
 
 

@@ -1,5 +1,5 @@
-rows, cols = [int(x) for x in input().split(" ")]
-matrix = []
+rows, cols = [int(x) for x in input().split()]
+neighborhood = []
 start_position = []
 
 directions = {
@@ -10,50 +10,44 @@ directions = {
 }
 
 for row in range(rows):
-    matrix.append(list(input()))
+    line = list(input())
+    neighborhood.append(line)
 
-    if "B" in matrix[row]:
-        start_position = [row, matrix[row].index("B")]
-        current_position = [start_position[0], start_position[1]]
+    if "B" in neighborhood[row]:
+        start_position = [row, neighborhood[row].index("B")]
 
+current_position = start_position
+while True:
+    command = input()
 
-command = input()
-
-while command:
     current_row, current_col = current_position[0] + directions[command][0], current_position[1] + directions[command][1]
 
 
     if not (0 <= current_row < rows and 0 <= current_col < cols):
+        neighborhood[start_position[0]][start_position[1]] = " "
         print("The delivery is late. Order is canceled.")
-        matrix[start_position[0]][start_position[1]] = " "
-        [print(*row, sep="") for row in matrix]
-        exit()
+        break
 
-    element = matrix[current_row][current_col]
+    element = neighborhood[current_row][current_col]
+
+    if element == "*":
+        continue
+
+    current_position = [current_row, current_col]
 
     if element == "P":
-        current_position = [current_row, current_col]
-        matrix[current_row][current_col] = "R"
+        neighborhood[current_row][current_col] = "R"
         print("Pizza is collected. 10 minutes for delivery.")
 
-    elif element == "*":
-        command = input()
+    elif element == "-":
+        neighborhood[current_row][current_col] = "."
         continue
 
     elif element == "A":
-        current_position = [current_row, current_col]
-        matrix[current_row][current_col] = "P"
         print("Pizza is delivered on time! Next order...")
-        [print(*row, sep="") for row in matrix]
-
-    if element == "-":
-        current_position = [current_row, current_col]
-        matrix[current_row][current_col] = "."
+        neighborhood[current_row][current_col] = "P"
+        break
 
 
-
-    command = input()
-
-
-66 % judge
-
+for row in neighborhood:
+    print(f"{''.join(row)}")
