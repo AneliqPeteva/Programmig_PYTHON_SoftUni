@@ -1,37 +1,24 @@
-def accommodate_new_pets(available_capacity_hotel, maximum_weight, *args):
-    available_capacity_hotel = int(available_capacity_hotel)
-    maximum_weight = float(maximum_weight)
+def accommodate_new_pets(capacity, weight_limit, *args):
+    accommodated_pets = {}
+    result = ''
 
-    hotel = {}
-    result = ""
-
-    for pet_type, pet_weight in args:
-        if available_capacity_hotel == 0:
+    for pet_type, weight in args:
+        if not capacity:
+            result += 'You did not manage to accommodate all pets!\n'
             break
-
-        if pet_weight > maximum_weight:
+        if weight > weight_limit:
             continue
+        if pet_type not in accommodated_pets:
+            accommodated_pets[pet_type] = 0
+        accommodated_pets[pet_type] += 1
+        capacity -= 1
 
-        if pet_weight <= maximum_weight:
-            if pet_type not in hotel:
-                hotel[pet_type] = 0
-            hotel[pet_type] += 1
-            available_capacity_hotel -= 1
-
-
-
-
-    if available_capacity_hotel > 0:
-        result += f"All pets are accommodated! Available capacity: {available_capacity_hotel}."
     else:
-        result += "You did not manage to accommodate all pets!"
+        result += f'All pets are accommodated! Available capacity: {capacity}.\n'
 
-
-
-    hotel = sorted(hotel.items(), key=lambda x: x[0])
-    result += f"\nAccommodated pets:"
-    for type, count in hotel:
-        result += f"\n{type}: {count}"
+    result += 'Accommodated pets:\n'
+    for pet, count in sorted(accommodated_pets.items()):
+        result += f'{pet}: {count}\n'
 
     return result
 
