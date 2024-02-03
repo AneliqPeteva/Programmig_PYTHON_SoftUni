@@ -25,17 +25,17 @@ def team_lineup(*args):
 
 
 
-print(team_lineup(
-   ("Harry Kane", "England"),
-   ("Manuel Neuer", "Germany"),
-   ("Raheem Sterling", "England"),
-   ("Toni Kroos", "Germany"),
-   ("Cristiano Ronaldo", "Portugal"),
-   ("Thomas Muller", "Germany")))
-print(team_lineup(
-   ("Lionel Messi", "Argentina"),
-   ("Neymar", "Brazil"),
-   ("Cristiano Ronaldo", "Portugal"),
-   ("Harry Kane", "England"),
-   ("Kylian Mbappe", "France"),
-   ("Raheem Sterling", "England")))
+# print(team_lineup(
+#    ("Harry Kane", "England"),
+#    ("Manuel Neuer", "Germany"),
+#    ("Raheem Sterling", "England"),
+#    ("Toni Kroos", "Germany"),
+#    ("Cristiano Ronaldo", "Portugal"),
+#    ("Thomas Muller", "Germany")))
+# print(team_lineup(
+#    ("Lionel Messi", "Argentina"),
+#    ("Neymar", "Brazil"),
+#    ("Cristiano Ronaldo", "Portugal"),
+#    ("Harry Kane", "England"),
+#    ("Kylian Mbappe", "France"),
+#    ("Raheem Sterling", "England")))
