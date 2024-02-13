@@ -5,7 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcc3c8cb-c7b7-49f5-a2e8-73091c729592" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/MORE EXERCISE/04. Snow White.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/1. Even Lines/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/2. Line Numbers/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/3. File Manipulator/3. File Manipulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/4. Directory Traversal/4. Directory Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/4. Directory Traversal/demo.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/4. Directory Traversal/example/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/4. Directory Traversal/example/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/4. Directory Traversal/example/python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/4. Directory Traversal/example/test_dir/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/4. Directory Traversal/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/4. Directory Traversal/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/LAB/3_4. File Writer and File Delete/3. File Writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/LAB/3_4. File Writer and File Delete/4. File Delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/LAB/5. Word Count/5. Word Count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/LAB/5. Word Count/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/LAB/5. Word Count/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/8 Workshop/LAB/1. Connect_four.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 14 December 2022/02. Navy Battle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тест 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/тест 1.py" afterDir="false" />
     </list>
@@ -17,6 +34,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -54,14 +72,20 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JavaScript&quot;
+    ]
   }
 }</component>
-  <component name="RunManager" selected="Python.04. Snow White">
-    <configuration name="01. World Tour" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.01. Climb The Peaks">
+    <configuration name="тест 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/2 Programming Fundamentals Final Exam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/2 Programming Fundamentals Final Exam/01. World Tour.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/тест 1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02. Fancy Barcodes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01. Apocalypse Preparation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/1 FINAL EXAM PREPARATION" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PАExam - 18 February 2023" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/1 FINAL EXAM PREPARATION/02. Fancy Barcodes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PАExam - 18 February 2023/01. Apocalypse Preparation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Need for Speed III" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="01. Climb The Peaks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/1 FINAL EXAM PREPARATION" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 14 December 2022" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/1 FINAL EXAM PREPARATION/03. Need for Speed III.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 14 December 2022/01. Climb The Peaks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. P!rates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Grocery List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/2 Programming Fundamentals Final Exam" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PАExam - 18 February 2023" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/2 Programming Fundamentals Final Exam/03. P!rates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PАExam - 18 February 2023/03. Grocery List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04. Snow White" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Student Credits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +177,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/MORE EXERCISE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 14 December 2022" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/MORE EXERCISE/04. Snow White.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 14 December 2022/03. Student Credits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.04. Snow White" />
-        <item itemvalue="Python.03. P!rates" />
-        <item itemvalue="Python.01. World Tour" />
-        <item itemvalue="Python.03. Need for Speed III" />
-        <item itemvalue="Python.02. Fancy Barcodes" />
+        <item itemvalue="Python.01. Climb The Peaks" />
+        <item itemvalue="Python.03. Student Credits" />
+        <item itemvalue="Python.03. Grocery List" />
+        <item itemvalue="Python.01. Apocalypse Preparation" />
+        <item itemvalue="Python.тест 1" />
       </list>
     </recent_temporary>
   </component>
@@ -185,400 +209,411 @@
       <option name="presentableId" value="Default" />
       <updated>1695275761933</updated>
     </task>
-    <task id="LOCAL-00010" summary="add">
+    <task id="LOCAL-00074" summary="add">
       <option name="closed" value="true" />
-      <created>1696276842722</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
+      <created>1703241539355</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
       <option name="project" value="LOCAL" />
-      <updated>1696276842722</updated>
+      <updated>1703241539355</updated>
     </task>
-    <task id="LOCAL-00011" summary="add">
+    <task id="LOCAL-00075" summary="add">
       <option name="closed" value="true" />
-      <created>1696417370114</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
+      <created>1703713569133</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
       <option name="project" value="LOCAL" />
-      <updated>1696417370114</updated>
+      <updated>1703713569133</updated>
     </task>
-    <task id="LOCAL-00012" summary="add">
+    <task id="LOCAL-00076" summary="add">
       <option name="closed" value="true" />
-      <created>1696604225080</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
+      <created>1704829025258</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
       <option name="project" value="LOCAL" />
-      <updated>1696604225080</updated>
+      <updated>1704829025258</updated>
     </task>
-    <task id="LOCAL-00013" summary="add">
+    <task id="LOCAL-00077" summary="add">
       <option name="closed" value="true" />
-      <created>1696605304944</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
+      <created>1705174693346</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
       <option name="project" value="LOCAL" />
-      <updated>1696605304944</updated>
+      <updated>1705174693347</updated>
     </task>
-    <task id="LOCAL-00014" summary="add">
+    <task id="LOCAL-00078" summary="add">
       <option name="closed" value="true" />
-      <created>1696619525918</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
+      <created>1705179704626</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
       <option name="project" value="LOCAL" />
-      <updated>1696619525918</updated>
+      <updated>1705179704626</updated>
     </task>
-    <task id="LOCAL-00015" summary="add">
+    <task id="LOCAL-00079" summary="add">
       <option name="closed" value="true" />
-      <created>1696620804852</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
+      <created>1705183507632</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
       <option name="project" value="LOCAL" />
-      <updated>1696620804852</updated>
+      <updated>1705183507632</updated>
     </task>
-    <task id="LOCAL-00016" summary="add">
+    <task id="LOCAL-00080" summary="add">
       <option name="closed" value="true" />
-      <created>1696625481662</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
+      <created>1705348776812</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
       <option name="project" value="LOCAL" />
-      <updated>1696625481662</updated>
+      <updated>1705348776812</updated>
     </task>
-    <task id="LOCAL-00017" summary="add">
+    <task id="LOCAL-00081" summary="add">
       <option name="closed" value="true" />
-      <created>1696625912586</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
+      <created>1705388365489</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
       <option name="project" value="LOCAL" />
-      <updated>1696625912586</updated>
+      <updated>1705388365489</updated>
     </task>
-    <task id="LOCAL-00018" summary="add">
+    <task id="LOCAL-00082" summary="add">
       <option name="closed" value="true" />
-      <created>1696626022476</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
+      <created>1705413122947</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
       <option name="project" value="LOCAL" />
-      <updated>1696626022476</updated>
+      <updated>1705413122947</updated>
     </task>
-    <task id="LOCAL-00019" summary="add">
+    <task id="LOCAL-00083" summary="add">
       <option name="closed" value="true" />
-      <created>1696855045527</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
+      <created>1705487316845</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
       <option name="project" value="LOCAL" />
-      <updated>1696855045527</updated>
+      <updated>1705487316845</updated>
     </task>
-    <task id="LOCAL-00020" summary="add">
+    <task id="LOCAL-00084" summary="add">
       <option name="closed" value="true" />
-      <created>1697095676586</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
+      <created>1705604573296</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
       <option name="project" value="LOCAL" />
-      <updated>1697095676586</updated>
+      <updated>1705604573296</updated>
     </task>
-    <task id="LOCAL-00021" summary="add">
+    <task id="LOCAL-00085" summary="add">
       <option name="closed" value="true" />
-      <created>1697104119448</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
+      <created>1705604779111</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
       <option name="project" value="LOCAL" />
-      <updated>1697104119448</updated>
+      <updated>1705604779111</updated>
     </task>
-    <task id="LOCAL-00022" summary="add">
+    <task id="LOCAL-00086" summary="add">
       <option name="closed" value="true" />
-      <created>1697115690713</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
+      <created>1705692852342</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
       <option name="project" value="LOCAL" />
-      <updated>1697115690713</updated>
+      <updated>1705692852342</updated>
     </task>
-    <task id="LOCAL-00023" summary="add">
+    <task id="LOCAL-00087" summary="add">
       <option name="closed" value="true" />
-      <created>1697182440741</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
+      <created>1705693258842</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
       <option name="project" value="LOCAL" />
-      <updated>1697182440741</updated>
+      <updated>1705693258842</updated>
     </task>
-    <task id="LOCAL-00024" summary="add">
+    <task id="LOCAL-00088" summary="add">
       <option name="closed" value="true" />
-      <created>1697191419592</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
+      <created>1705906511860</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
       <option name="project" value="LOCAL" />
-      <updated>1697191419592</updated>
+      <updated>1705906511860</updated>
     </task>
-    <task id="LOCAL-00025" summary="add">
+    <task id="LOCAL-00089" summary="add">
       <option name="closed" value="true" />
-      <created>1697194122711</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
+      <created>1705995307840</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
       <option name="project" value="LOCAL" />
-      <updated>1697194122711</updated>
+      <updated>1705995307840</updated>
     </task>
-    <task id="LOCAL-00026" summary="add">
+    <task id="LOCAL-00090" summary="add">
       <option name="closed" value="true" />
-      <created>1697224074394</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
+      <created>1705995442231</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
       <option name="project" value="LOCAL" />
-      <updated>1697224074394</updated>
+      <updated>1705995442231</updated>
     </task>
-    <task id="LOCAL-00027" summary="add">
+    <task id="LOCAL-00091" summary="add">
       <option name="closed" value="true" />
-      <created>1697228685077</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
+      <created>1705995626494</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
       <option name="project" value="LOCAL" />
-      <updated>1697228685077</updated>
+      <updated>1705995626494</updated>
     </task>
-    <task id="LOCAL-00028" summary="add">
+    <task id="LOCAL-00092" summary="add">
       <option name="closed" value="true" />
-      <created>1697529929779</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
+      <created>1706082103296</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
       <option name="project" value="LOCAL" />
-      <updated>1697529929779</updated>
+      <updated>1706082103296</updated>
     </task>
-    <task id="LOCAL-00029" summary="add">
+    <task id="LOCAL-00093" summary="add">
       <option name="closed" value="true" />
-      <created>1697620938502</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
+      <created>1706107328678</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
       <option name="project" value="LOCAL" />
-      <updated>1697620938502</updated>
+      <updated>1706107328678</updated>
     </task>
-    <task id="LOCAL-00030" summary="add">
+    <task id="LOCAL-00094" summary="add">
       <option name="closed" value="true" />
-      <created>1697653258987</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
+      <created>1706176794862</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
       <option name="project" value="LOCAL" />
-      <updated>1697653258987</updated>
+      <updated>1706176794862</updated>
     </task>
-    <task id="LOCAL-00031" summary="add">
+    <task id="LOCAL-00095" summary="add">
       <option name="closed" value="true" />
-      <created>1697703300574</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
+      <created>1706176820565</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
       <option name="project" value="LOCAL" />
-      <updated>1697703300574</updated>
+      <updated>1706176820565</updated>
     </task>
-    <task id="LOCAL-00032" summary="add">
+    <task id="LOCAL-00096" summary="add">
       <option name="closed" value="true" />
-      <created>1697716724625</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
+      <created>1706305775324</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
       <option name="project" value="LOCAL" />
-      <updated>1697716724625</updated>
+      <updated>1706305775324</updated>
     </task>
-    <task id="LOCAL-00033" summary="add">
+    <task id="LOCAL-00097" summary="add">
       <option name="closed" value="true" />
-      <created>1697831753848</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
+      <created>1706344060635</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
       <option name="project" value="LOCAL" />
-      <updated>1697831753848</updated>
+      <updated>1706344060635</updated>
     </task>
-    <task id="LOCAL-00034" summary="add">
+    <task id="LOCAL-00098" summary="add">
       <option name="closed" value="true" />
-      <created>1697835516187</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
+      <created>1706344069353</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
       <option name="project" value="LOCAL" />
-      <updated>1697835516187</updated>
+      <updated>1706344069353</updated>
     </task>
-    <task id="LOCAL-00035" summary="add">
+    <task id="LOCAL-00099" summary="add">
       <option name="closed" value="true" />
-      <created>1697916768815</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
+      <created>1706393347918</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
       <option name="project" value="LOCAL" />
-      <updated>1697916768815</updated>
+      <updated>1706393347918</updated>
     </task>
-    <task id="LOCAL-00036" summary="add">
+    <task id="LOCAL-00100" summary="add">
       <option name="closed" value="true" />
-      <created>1698062983392</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
+      <created>1706642910591</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
       <option name="project" value="LOCAL" />
-      <updated>1698062983392</updated>
+      <updated>1706642910591</updated>
     </task>
-    <task id="LOCAL-00037" summary="add">
+    <task id="LOCAL-00101" summary="add">
       <option name="closed" value="true" />
-      <created>1698351280013</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
+      <created>1706642991807</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
       <option name="project" value="LOCAL" />
-      <updated>1698351280013</updated>
+      <updated>1706642991807</updated>
     </task>
-    <task id="LOCAL-00038" summary="add">
+    <task id="LOCAL-00102" summary="add">
       <option name="closed" value="true" />
-      <created>1698438897608</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
+      <created>1706643007636</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
       <option name="project" value="LOCAL" />
-      <updated>1698438897608</updated>
+      <updated>1706643007636</updated>
     </task>
-    <task id="LOCAL-00039" summary="add">
+    <task id="LOCAL-00103" summary="add">
       <option name="closed" value="true" />
-      <created>1698441839512</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
+      <created>1706989834610</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
       <option name="project" value="LOCAL" />
-      <updated>1698441839512</updated>
+      <updated>1706989834610</updated>
     </task>
-    <task id="LOCAL-00040" summary="add">
+    <task id="LOCAL-00104" summary="add">
       <option name="closed" value="true" />
-      <created>1698521430406</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
+      <created>1706989841458</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
       <option name="project" value="LOCAL" />
-      <updated>1698521430406</updated>
+      <updated>1706989841458</updated>
     </task>
-    <task id="LOCAL-00041" summary="add">
+    <task id="LOCAL-00105" summary="add">
       <option name="closed" value="true" />
-      <created>1698670516715</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
+      <created>1706990123163</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
       <option name="project" value="LOCAL" />
-      <updated>1698670516715</updated>
+      <updated>1706990123163</updated>
     </task>
-    <task id="LOCAL-00042" summary="add">
+    <task id="LOCAL-00106" summary="add">
       <option name="closed" value="true" />
-      <created>1698673767645</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
+      <created>1706990413351</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
       <option name="project" value="LOCAL" />
-      <updated>1698673767645</updated>
+      <updated>1706990413351</updated>
     </task>
-    <task id="LOCAL-00043" summary="add">
+    <task id="LOCAL-00107" summary="add">
       <option name="closed" value="true" />
-      <created>1698698242837</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
+      <created>1706994229615</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
       <option name="project" value="LOCAL" />
-      <updated>1698698242837</updated>
+      <updated>1706994229615</updated>
     </task>
-    <task id="LOCAL-00044" summary="add">
+    <task id="LOCAL-00108" summary="add">
       <option name="closed" value="true" />
-      <created>1698758461317</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
+      <created>1706997133203</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
       <option name="project" value="LOCAL" />
-      <updated>1698758461317</updated>
+      <updated>1706997133203</updated>
     </task>
-    <task id="LOCAL-00045" summary="add">
+    <task id="LOCAL-00109" summary="add">
       <option name="closed" value="true" />
-      <created>1699129400821</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
+      <created>1706997372095</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
       <option name="project" value="LOCAL" />
-      <updated>1699129400821</updated>
+      <updated>1706997372095</updated>
     </task>
-    <task id="LOCAL-00046" summary="add">
+    <task id="LOCAL-00110" summary="add">
       <option name="closed" value="true" />
-      <created>1699131534382</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
+      <created>1707001238149</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
       <option name="project" value="LOCAL" />
-      <updated>1699131534382</updated>
+      <updated>1707001238149</updated>
     </task>
-    <task id="LOCAL-00047" summary="add">
+    <task id="LOCAL-00111" summary="add">
       <option name="closed" value="true" />
-      <created>1699135515200</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
+      <created>1707001262913</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
       <option name="project" value="LOCAL" />
-      <updated>1699135515200</updated>
+      <updated>1707001262913</updated>
     </task>
-    <task id="LOCAL-00048" summary="add">
+    <task id="LOCAL-00112" summary="add">
       <option name="closed" value="true" />
-      <created>1699905411680</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
+      <created>1707001274757</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
       <option name="project" value="LOCAL" />
-      <updated>1699905411681</updated>
+      <updated>1707001274757</updated>
     </task>
-    <task id="LOCAL-00049" summary="add">
+    <task id="LOCAL-00113" summary="add">
       <option name="closed" value="true" />
-      <created>1699993586920</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
+      <created>1707001311620</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
       <option name="project" value="LOCAL" />
-      <updated>1699993586920</updated>
+      <updated>1707001311620</updated>
     </task>
-    <task id="LOCAL-00050" summary="add">
+    <task id="LOCAL-00114" summary="add">
       <option name="closed" value="true" />
-      <created>1700134555367</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
+      <created>1707164638559</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
       <option name="project" value="LOCAL" />
-      <updated>1700134555368</updated>
+      <updated>1707164638559</updated>
     </task>
-    <task id="LOCAL-00051" summary="add">
+    <task id="LOCAL-00115" summary="add">
       <option name="closed" value="true" />
-      <created>1700252637175</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
+      <created>1707164667204</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
       <option name="project" value="LOCAL" />
-      <updated>1700252637175</updated>
+      <updated>1707164667204</updated>
     </task>
-    <task id="LOCAL-00052" summary="add">
+    <task id="LOCAL-00116" summary="add">
       <option name="closed" value="true" />
-      <created>1700260286664</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
+      <created>1707247455123</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
       <option name="project" value="LOCAL" />
-      <updated>1700260286664</updated>
+      <updated>1707247455123</updated>
     </task>
-    <task id="LOCAL-00053" summary="add">
+    <task id="LOCAL-00117" summary="add">
       <option name="closed" value="true" />
-      <created>1700264004668</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
+      <created>1707250808617</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
       <option name="project" value="LOCAL" />
-      <updated>1700264004668</updated>
+      <updated>1707250808617</updated>
     </task>
-    <task id="LOCAL-00054" summary="add">
+    <task id="LOCAL-00118" summary="add">
       <option name="closed" value="true" />
-      <created>1700345323420</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
+      <created>1707250820603</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
       <option name="project" value="LOCAL" />
-      <updated>1700345323420</updated>
+      <updated>1707250820603</updated>
     </task>
-    <task id="LOCAL-00055" summary="add">
+    <task id="LOCAL-00119" summary="add">
       <option name="closed" value="true" />
-      <created>1700658411417</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
+      <created>1707374838966</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
       <option name="project" value="LOCAL" />
-      <updated>1700658411417</updated>
+      <updated>1707374838966</updated>
     </task>
-    <task id="LOCAL-00056" summary="add">
+    <task id="LOCAL-00120" summary="add">
       <option name="closed" value="true" />
-      <created>1700943020732</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
+      <created>1707483462763</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
       <option name="project" value="LOCAL" />
-      <updated>1700943020732</updated>
+      <updated>1707483462763</updated>
     </task>
-    <task id="LOCAL-00057" summary="add">
+    <task id="LOCAL-00121" summary="add">
       <option name="closed" value="true" />
-      <created>1700948432122</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
+      <created>1707484845182</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
       <option name="project" value="LOCAL" />
-      <updated>1700948432122</updated>
+      <updated>1707484845182</updated>
     </task>
-    <task id="LOCAL-00058" summary="add">
+    <task id="LOCAL-00122" summary="add">
       <option name="closed" value="true" />
-      <created>1700948615053</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
+      <created>1707511200703</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
       <option name="project" value="LOCAL" />
-      <updated>1700948615053</updated>
+      <updated>1707511200703</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <option name="localTasksCounter" value="123" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add" />
@@ -913,11 +948,6 @@
           <option name="timeStamp" value="112" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/тест 1.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="113" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/MORE EXERCISE/02. Judge.py</url>
           <line>4</line>
           <option name="timeStamp" value="115" />
@@ -973,24 +1003,9 @@
           <option name="timeStamp" value="125" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/MORE EXERCISE/04. Snow White.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="126" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/LAB/04. Students.py</url>
           <line>6</line>
           <option name="timeStamp" value="129" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/тест 1.py</url>
-          <line>23</line>
-          <option name="timeStamp" value="130" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/MORE EXERCISE/04. Snow White.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="132" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Regular Expressions/MORE EXERCISE/02. SoftUni Bar Income.py</url>
@@ -1029,7 +1044,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/EXAM - Fundamentals/FINAL EXAM/02 Programming Fundamentals Final Exam/02. Destination Mapper.py</url>
-          <line>8</line>
+          <line>11</line>
           <option name="timeStamp" value="148" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -1066,6 +1081,155 @@
           <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/PYTHON Fundamentals/Dictionaries/MORE EXERCISE/04. Snow White.py</url>
           <line>3</line>
           <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_FINAL_EXAM_03122023/01. Decrypting Commands.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_FINAL_EXAM_03122023/03. Wild Zoo.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/FUNDAMENTALS with PYTHON/MY_FINAL_EXAM_03122023/02. Easter Eggs.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/1 Lists as Stacks and Queues/EXERCISE/03. Fast Food.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/1 Lists as Stacks and Queues/EXERCISE/04. Fashion Boutique.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/1 Lists as Stacks and Queues/EXERCISE/07. Robotics.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/1 Lists as Stacks and Queues/EXERCISE/08. Crossroads.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/1 Lists as Stacks and Queues/EXERCISE/10. Cups and Bottles.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/2 Tuples and Sets/LAB/05. SoftUni Party.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/3 Stacks, Queues, Tuples and Sets - Exercise/02. Expression Evaluator.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/3 Stacks, Queues, Tuples and Sets - Exercise/03. Milkshakes.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/4. Multidimensional Lists/EXERCISE 1/05. Matrix of Palindromes.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/тест 1.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/5 Functions Advanced/LAB/06. Recursive Power.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/5 Functions Advanced/EXERCISE/05. Concatenate.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/5 Functions Advanced/EXERCISE/05. Concatenate.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="181" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Exam - 22 October 2023/03. Team Lineup.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="183" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 09 August 2023/02. Delivery Boy.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 09 August 2023/03. Pets Hotel.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Exam - 22 October 2023/02. Fishing Competition.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Exam - 22 October 2023/02. Fishing Competition.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Exam - 17 June 2023/01. Temple of Doom.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Exam - 17 June 2023/02. Mouse In The Kitchen.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Exam - 17 June 2023/03. Enrollment.py</url>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PАExam - 18 February 2023/02. Blind Man's Buff.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/3. File Manipulator/3. File Manipulator.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PАExam - 18 February 2023/01. Apocalypse Preparation.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 14 December 2022/03. Student Credits.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 14 December 2022/01. Climb The Peaks.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="204" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
