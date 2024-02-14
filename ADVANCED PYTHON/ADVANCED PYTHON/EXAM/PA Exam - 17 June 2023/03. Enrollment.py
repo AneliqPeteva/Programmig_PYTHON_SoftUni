@@ -12,7 +12,7 @@ def gather_credits(max_credits, *args):
 
 
     if sum_credits >= max_credits:
-        return f"Enrollment finished! Maximum credits: {sum_credits}.\nCourses: {', '.join(sorted(courses))}"
+
     return f"You need to enroll in more courses! You have to gather {max_credits - sum_credits} credits more."
 
 
