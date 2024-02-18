@@ -18,10 +18,10 @@ def softuni_students(*args, **kwargs):
 
 
 
-# print(softuni_students(
-#     ('id_7', 'Silvester1'),
-#     ('id_32', 'Katq21'),
-#     ('id_7', 'The programmer'),
-#     id_76='Spring Fundamentals',
-#     id_7='Spring Advanced',
-# ))
+print(softuni_students(
+    ('id_7', 'Silvester1'),
+    ('id_32', 'Katq21'),
+    ('id_7', 'The programmer'),
+    id_76='Spring Fundamentals',
+    id_7='Spring Advanced',
+))
