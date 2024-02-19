@@ -5,25 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcc3c8cb-c7b7-49f5-a2e8-73091c729592" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/1. Even Lines/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/2. Line Numbers/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/3. File Manipulator/3. File Manipulator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/4. Directory Traversal/4. Directory Traversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/4. Directory Traversal/demo.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/4. Directory Traversal/example/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/4. Directory Traversal/example/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/4. Directory Traversal/example/python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/4. Directory Traversal/example/test_dir/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/4. Directory Traversal/log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/EXERCISE/4. Directory Traversal/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/LAB/3_4. File Writer and File Delete/3. File Writer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/LAB/3_4. File Writer and File Delete/4. File Delete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/LAB/5. Word Count/5. Word Count.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/LAB/5. Word Count/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/7 File Handling/LAB/5. Word Count/words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/8 Workshop/LAB/1. Connect_four.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 14 December 2022/02. Navy Battle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тест 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/тест 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +65,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Python.01. Climb The Peaks">
+  <component name="RunManager" selected="Python.тест 1">
     <configuration name="тест 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01. Apocalypse Preparation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. Clear Skies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PАExam - 18 February 2023" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/MY_EXAM 17022024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PАExam - 18 February 2023/01. Apocalypse Preparation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/MY_EXAM 17022024/02. Clear Skies.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01. Climb The Peaks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Cookbook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 14 December 2022" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/MY_EXAM 17022024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 14 December 2022/01. Climb The Peaks.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/MY_EXAM 17022024/03. Cookbook.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Grocery List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Movie Organizer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PАExam - 18 February 2023" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PА Retake Exam - 12 April 2023" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PАExam - 18 February 2023/03. Grocery List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PА Retake Exam - 12 April 2023/03. Movie Organizer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Student Credits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. SoftUni Students" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,11 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 14 December 2022" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 13 December 2023" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 14 December 2022/03. Student Credits.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 13 December 2023/03. SoftUni Students.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01. Climb The Peaks" />
-        <item itemvalue="Python.03. Student Credits" />
-        <item itemvalue="Python.03. Grocery List" />
-        <item itemvalue="Python.01. Apocalypse Preparation" />
         <item itemvalue="Python.тест 1" />
+        <item itemvalue="Python.03. Cookbook" />
+        <item itemvalue="Python.03. Movie Organizer" />
+        <item itemvalue="Python.03. SoftUni Students" />
+        <item itemvalue="Python.02. Clear Skies" />
       </list>
     </recent_temporary>
   </component>
@@ -208,78 +189,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695275761933</updated>
-    </task>
-    <task id="LOCAL-00074" summary="add">
-      <option name="closed" value="true" />
-      <created>1703241539355</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1703241539355</updated>
-    </task>
-    <task id="LOCAL-00075" summary="add">
-      <option name="closed" value="true" />
-      <created>1703713569133</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1703713569133</updated>
-    </task>
-    <task id="LOCAL-00076" summary="add">
-      <option name="closed" value="true" />
-      <created>1704829025258</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1704829025258</updated>
-    </task>
-    <task id="LOCAL-00077" summary="add">
-      <option name="closed" value="true" />
-      <created>1705174693346</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1705174693347</updated>
-    </task>
-    <task id="LOCAL-00078" summary="add">
-      <option name="closed" value="true" />
-      <created>1705179704626</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1705179704626</updated>
-    </task>
-    <task id="LOCAL-00079" summary="add">
-      <option name="closed" value="true" />
-      <created>1705183507632</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1705183507632</updated>
-    </task>
-    <task id="LOCAL-00080" summary="add">
-      <option name="closed" value="true" />
-      <created>1705348776812</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1705348776812</updated>
-    </task>
-    <task id="LOCAL-00081" summary="add">
-      <option name="closed" value="true" />
-      <created>1705388365489</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1705388365489</updated>
-    </task>
-    <task id="LOCAL-00082" summary="add">
-      <option name="closed" value="true" />
-      <created>1705413122947</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1705413122947</updated>
     </task>
     <task id="LOCAL-00083" summary="add">
       <option name="closed" value="true" />
@@ -601,7 +510,79 @@
       <option name="project" value="LOCAL" />
       <updated>1707511200703</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="add">
+      <option name="closed" value="true" />
+      <created>1707550072336</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1707550072336</updated>
+    </task>
+    <task id="LOCAL-00124" summary="add">
+      <option name="closed" value="true" />
+      <created>1707550095769</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1707550095769</updated>
+    </task>
+    <task id="LOCAL-00125" summary="add">
+      <option name="closed" value="true" />
+      <created>1707726213230</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1707726213230</updated>
+    </task>
+    <task id="LOCAL-00126" summary="add">
+      <option name="closed" value="true" />
+      <created>1707819702933</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1707819702934</updated>
+    </task>
+    <task id="LOCAL-00127" summary="add">
+      <option name="closed" value="true" />
+      <created>1707894830390</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1707894830390</updated>
+    </task>
+    <task id="LOCAL-00128" summary="add">
+      <option name="closed" value="true" />
+      <created>1707899093446</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1707899093446</updated>
+    </task>
+    <task id="LOCAL-00129" summary="add">
+      <option name="closed" value="true" />
+      <created>1708090556975</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1708090556975</updated>
+    </task>
+    <task id="LOCAL-00130" summary="add">
+      <option name="closed" value="true" />
+      <created>1708170073405</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1708170073405</updated>
+    </task>
+    <task id="LOCAL-00131" summary="add">
+      <option name="closed" value="true" />
+      <created>1708287120310</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1708287120310</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1148,11 +1129,6 @@
           <option name="timeStamp" value="176" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/тест 1.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="178" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/5 Functions Advanced/LAB/06. Recursive Power.py</url>
           <line>1</line>
           <option name="timeStamp" value="179" />
@@ -1230,6 +1206,96 @@
           <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 14 December 2022/01. Climb The Peaks.py</url>
           <line>15</line>
           <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 14 December 2022/02. Navy Battle.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Exam - 22 October 2022/01. Energy Drinks.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Exam - 22 October 2022/02. Rally Racing.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Exam - 22 October 2022/03. Hourly Forecast.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 15 December 2021/01. Christmas Elves.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 15 December 2021/03. Naughty or Nice.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 15 December 2021/02. North Pole Challenge.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/5 Functions Advanced/EXERCISE/09. Recursion Palindrome.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 18 August 2022/01. Stewards.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PА Retake Exam - 12 April 2023/03. Movie Organizer.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 18 August 2022/01. Stewards.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 18 August 2022/03. Song Creator.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 18 August 2022/02. CRUD.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 18 August 2022/02. CRUD.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/MY_EXAM 17022024/01. Chicken Snack.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/MY_EXAM 17022024/02. Clear Skies.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 13 December 2023/03. SoftUni Students.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/MY_EXAM 17022024/03. Cookbook.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="247" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
