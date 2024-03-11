@@ -5,6 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcc3c8cb-c7b7-49f5-a2e8-73091c729592" name="Changes" comment="add">
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/01 Person/project/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/02 Zoo/project/gorilla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/02 Zoo/project/lizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/02 Zoo/project/mammal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/02 Zoo/project/reptile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/02 Zoo/project/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/03 Players and Monsters /project/hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/03 Players and Monsters /project/knight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/03 Players and Monsters /project/muse_elf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/03 Players and Monsters /project/soul_master.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/03 Players and Monsters /project/wizard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/04 Need for Speed/project/motorcycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/04 Need for Speed/project/race_motorcycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/04 Need for Speed/project/sport_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/04 Need for Speed/project/vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/05 Shop/project/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/05 Shop/project/product_repository.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /LAB/03 Multiple Inheritance/project/person.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /LAB/03 Multiple Inheritance/project/teacher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /LAB/04 Multilevel Inheritance/project/sports_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /LAB/04 Multilevel Inheritance/project/vehicle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /LAB/06 Stack of Strings/stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/01 Wild Cat Zoo/project/keeper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/01 Wild Cat Zoo/project/lion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/01 Wild Cat Zoo/project/tiger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/01 Wild Cat Zoo/project/vet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/01 Wild Cat Zoo/project/worker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/01 Wild Cat Zoo/project/zoo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Programmig_PYTHON_SoftUni.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programmig_PYTHON_SoftUni.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тест 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/тест 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +95,13 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="Python.тест 1">
-    <configuration name="тест 1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/2 Classes and Objects/EXERCISE/05/ To-do List/project" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.05. Account">
+    <configuration name="01. Person" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/тест 1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/LAB/01. Person.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02. Clear Skies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02. Mammal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/MY_EXAM 17022024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/MY_EXAM 17022024/02. Clear Skies.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/LAB/02. Mammal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Cookbook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03. Profile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,11 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/MY_EXAM 17022024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/MY_EXAM 17022024/03. Cookbook.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/LAB/03. Profile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +164,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. Movie Organizer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04. Email Validator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +172,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PА Retake Exam - 12 April 2023" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PА Retake Exam - 12 April 2023/03. Movie Organizer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/LAB/04. Email Validator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03. SoftUni Students" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05. Account" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,11 +193,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 13 December 2023" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/LAB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/PA Retake Exam - 13 December 2023/03. SoftUni Students.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/LAB/05. Account.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.тест 1" />
-        <item itemvalue="Python.03. Cookbook" />
-        <item itemvalue="Python.03. Movie Organizer" />
-        <item itemvalue="Python.03. SoftUni Students" />
-        <item itemvalue="Python.02. Clear Skies" />
+        <item itemvalue="Python.05. Account" />
+        <item itemvalue="Python.04. Email Validator" />
+        <item itemvalue="Python.03. Profile" />
+        <item itemvalue="Python.02. Mammal" />
+        <item itemvalue="Python.01. Person" />
       </list>
     </recent_temporary>
   </component>
@@ -189,166 +224,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695275761933</updated>
-    </task>
-    <task id="LOCAL-00083" summary="add">
-      <option name="closed" value="true" />
-      <created>1705487316845</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1705487316845</updated>
-    </task>
-    <task id="LOCAL-00084" summary="add">
-      <option name="closed" value="true" />
-      <created>1705604573296</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1705604573296</updated>
-    </task>
-    <task id="LOCAL-00085" summary="add">
-      <option name="closed" value="true" />
-      <created>1705604779111</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1705604779111</updated>
-    </task>
-    <task id="LOCAL-00086" summary="add">
-      <option name="closed" value="true" />
-      <created>1705692852342</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1705692852342</updated>
-    </task>
-    <task id="LOCAL-00087" summary="add">
-      <option name="closed" value="true" />
-      <created>1705693258842</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1705693258842</updated>
-    </task>
-    <task id="LOCAL-00088" summary="add">
-      <option name="closed" value="true" />
-      <created>1705906511860</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1705906511860</updated>
-    </task>
-    <task id="LOCAL-00089" summary="add">
-      <option name="closed" value="true" />
-      <created>1705995307840</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1705995307840</updated>
-    </task>
-    <task id="LOCAL-00090" summary="add">
-      <option name="closed" value="true" />
-      <created>1705995442231</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1705995442231</updated>
-    </task>
-    <task id="LOCAL-00091" summary="add">
-      <option name="closed" value="true" />
-      <created>1705995626494</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1705995626494</updated>
-    </task>
-    <task id="LOCAL-00092" summary="add">
-      <option name="closed" value="true" />
-      <created>1706082103296</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1706082103296</updated>
-    </task>
-    <task id="LOCAL-00093" summary="add">
-      <option name="closed" value="true" />
-      <created>1706107328678</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1706107328678</updated>
-    </task>
-    <task id="LOCAL-00094" summary="add">
-      <option name="closed" value="true" />
-      <created>1706176794862</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1706176794862</updated>
-    </task>
-    <task id="LOCAL-00095" summary="add">
-      <option name="closed" value="true" />
-      <created>1706176820565</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1706176820565</updated>
-    </task>
-    <task id="LOCAL-00096" summary="add">
-      <option name="closed" value="true" />
-      <created>1706305775324</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1706305775324</updated>
-    </task>
-    <task id="LOCAL-00097" summary="add">
-      <option name="closed" value="true" />
-      <created>1706344060635</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1706344060635</updated>
-    </task>
-    <task id="LOCAL-00098" summary="add">
-      <option name="closed" value="true" />
-      <created>1706344069353</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1706344069353</updated>
-    </task>
-    <task id="LOCAL-00099" summary="add">
-      <option name="closed" value="true" />
-      <created>1706393347918</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1706393347918</updated>
-    </task>
-    <task id="LOCAL-00100" summary="add">
-      <option name="closed" value="true" />
-      <created>1706642910591</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1706642910591</updated>
-    </task>
-    <task id="LOCAL-00101" summary="add">
-      <option name="closed" value="true" />
-      <created>1706642991807</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1706642991807</updated>
-    </task>
-    <task id="LOCAL-00102" summary="add">
-      <option name="closed" value="true" />
-      <created>1706643007636</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1706643007636</updated>
     </task>
     <task id="LOCAL-00103" summary="add">
       <option name="closed" value="true" />
@@ -582,7 +457,167 @@
       <option name="project" value="LOCAL" />
       <updated>1708287120310</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="add">
+      <option name="closed" value="true" />
+      <created>1708328153788</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1708328153788</updated>
+    </task>
+    <task id="LOCAL-00133" summary="add">
+      <option name="closed" value="true" />
+      <created>1708329440319</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1708329440319</updated>
+    </task>
+    <task id="LOCAL-00134" summary="add">
+      <option name="closed" value="true" />
+      <created>1708413699976</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1708413699976</updated>
+    </task>
+    <task id="LOCAL-00135" summary="add">
+      <option name="closed" value="true" />
+      <created>1708424275711</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1708424275711</updated>
+    </task>
+    <task id="LOCAL-00136" summary="add">
+      <option name="closed" value="true" />
+      <created>1708540732502</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1708540732502</updated>
+    </task>
+    <task id="LOCAL-00137" summary="add">
+      <option name="closed" value="true" />
+      <created>1708807038380</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1708807038380</updated>
+    </task>
+    <task id="LOCAL-00138" summary="add">
+      <option name="closed" value="true" />
+      <created>1708811996743</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1708811996743</updated>
+    </task>
+    <task id="LOCAL-00139" summary="add">
+      <option name="closed" value="true" />
+      <created>1708812903174</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1708812903174</updated>
+    </task>
+    <task id="LOCAL-00140" summary="add">
+      <option name="closed" value="true" />
+      <created>1709411163470</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1709411163470</updated>
+    </task>
+    <task id="LOCAL-00141" summary="add">
+      <option name="closed" value="true" />
+      <created>1709584493472</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1709584493472</updated>
+    </task>
+    <task id="LOCAL-00142" summary="add">
+      <option name="closed" value="true" />
+      <created>1709584507939</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1709584507939</updated>
+    </task>
+    <task id="LOCAL-00143" summary="add">
+      <option name="closed" value="true" />
+      <created>1709838459311</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1709838459311</updated>
+    </task>
+    <task id="LOCAL-00144" summary="add">
+      <option name="closed" value="true" />
+      <created>1709925344560</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1709925344560</updated>
+    </task>
+    <task id="LOCAL-00145" summary="add">
+      <option name="closed" value="true" />
+      <created>1709925353866</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1709925353866</updated>
+    </task>
+    <task id="LOCAL-00146" summary="add">
+      <option name="closed" value="true" />
+      <created>1710013161798</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1710013161799</updated>
+    </task>
+    <task id="LOCAL-00147" summary="add">
+      <option name="closed" value="true" />
+      <created>1710013172683</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1710013172683</updated>
+    </task>
+    <task id="LOCAL-00148" summary="add">
+      <option name="closed" value="true" />
+      <created>1710021881495</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1710021881495</updated>
+    </task>
+    <task id="LOCAL-00149" summary="add">
+      <option name="closed" value="true" />
+      <created>1710102375690</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1710102375690</updated>
+    </task>
+    <task id="LOCAL-00150" summary="add">
+      <option name="closed" value="true" />
+      <created>1710155178477</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1710155178477</updated>
+    </task>
+    <task id="LOCAL-00151" summary="add">
+      <option name="closed" value="true" />
+      <created>1710155191534</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1710155191534</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1296,6 +1331,16 @@
           <url>file://$PROJECT_DIR$/ADVANCED PYTHON/ADVANCED PYTHON/EXAM/MY_EXAM 17022024/03. Cookbook.py</url>
           <line>3</line>
           <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/1 First Steps in OOP/EXERCISE/06. Steam User.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/2 Classes and Objects/LAB/04. Glass.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="249" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
