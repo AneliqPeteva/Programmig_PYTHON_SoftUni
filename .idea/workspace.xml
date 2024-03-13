@@ -5,36 +5,66 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bcc3c8cb-c7b7-49f5-a2e8-73091c729592" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/01 Person/project/person.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/02 Zoo/project/gorilla.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/02 Zoo/project/lizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/02 Zoo/project/mammal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/02 Zoo/project/reptile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/02 Zoo/project/snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/03 Players and Monsters /project/hero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/03 Players and Monsters /project/knight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/03 Players and Monsters /project/muse_elf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/03 Players and Monsters /project/soul_master.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/03 Players and Monsters /project/wizard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/04 Need for Speed/project/motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/04 Need for Speed/project/race_motorcycle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/04 Need for Speed/project/sport_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/04 Need for Speed/project/vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/05 Shop/project/product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /EXERCISE/05 Shop/project/product_repository.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /LAB/03 Multiple Inheritance/project/person.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /LAB/03 Multiple Inheritance/project/teacher.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /LAB/04 Multilevel Inheritance/project/sports_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /LAB/04 Multilevel Inheritance/project/vehicle.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/3 Inheritance  /LAB/06 Stack of Strings/stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/01 Wild Cat Zoo/project/keeper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/01 Wild Cat Zoo/project/lion.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/01 Wild Cat Zoo/project/tiger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/01 Wild Cat Zoo/project/vet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/01 Wild Cat Zoo/project/worker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/01 Wild Cat Zoo/project/zoo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/02 Pizza Maker/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/02 Pizza Maker/project/dough.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/02 Pizza Maker/project/pizza.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/02 Pizza Maker/project/topping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/03 Football Team Generator/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/03 Football Team Generator/project/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/03 Football Team Generator/project/team.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/04 Restaurant/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/04 Restaurant/project/beverage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/04 Restaurant/project/beverage/beverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/04 Restaurant/project/beverage/coffee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/04 Restaurant/project/beverage/cold_beverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/04 Restaurant/project/beverage/hot_beverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/04 Restaurant/project/beverage/tea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/04 Restaurant/project/food/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/04 Restaurant/project/food/cake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/04 Restaurant/project/food/dessert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/04 Restaurant/project/food/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/04 Restaurant/project/food/main_dish.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/04 Restaurant/project/food/salmon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/04 Restaurant/project/food/soup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/04 Restaurant/project/food/starter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/04 Restaurant/project/product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/01. Photo Album.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/02 Movie World/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/02 Movie World/project/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/02 Movie World/project/dvd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/02 Movie World/project/movie_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/03 Document Management/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/03 Document Management/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/03 Document Management/project/category.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/03 Document Management/project/document.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/03 Document Management/project/storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/03 Document Management/project/topic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/04 Gym/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/04 Gym/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/04 Gym/project/customer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/04 Gym/project/equipment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/04 Gym/project/exercise_plan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/04 Gym/project/gym.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/04 Gym/project/subscription.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/04 Gym/project/trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/6 Polymorphism and Abstraction/EXERCISE/01. Vehicles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/6 Polymorphism and Abstraction/EXERCISE/02. Groups.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/6 Polymorphism and Abstraction/EXERCISE/03. Account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/6 Polymorphism and Abstraction/EXERCISE/04 Wild Farm/project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/6 Polymorphism and Abstraction/EXERCISE/04 Wild Farm/project/animals/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/6 Polymorphism and Abstraction/EXERCISE/04 Wild Farm/project/animals/animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/6 Polymorphism and Abstraction/EXERCISE/04 Wild Farm/project/animals/birds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/6 Polymorphism and Abstraction/EXERCISE/04 Wild Farm/project/animals/mammals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/6 Polymorphism and Abstraction/EXERCISE/04 Wild Farm/project/food.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Programmig_PYTHON_SoftUni.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programmig_PYTHON_SoftUni.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/01 Wild Cat Zoo/project/animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/01 Wild Cat Zoo/project/animal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/01 Wild Cat Zoo/project/lion.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/01 Wild Cat Zoo/project/lion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/01 Wild Cat Zoo/project/zoo.py" beforeDir="false" afterPath="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/EXRCISE/01 Wild Cat Zoo/project/zoo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/тест 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/тест 1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,47 +111,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/petkopetev/GITHUB/Programmig_PYTHON_SoftUni/ADVANCED PYTHON/Python OOP/6 Polymorphism and Abstraction/EXERCISE/04 Wild Farm/project",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;JavaScript&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JavaScript"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/6 Polymorphism and Abstraction/EXERCISE/04 Wild Farm/project" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE" />
+      <recent name="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods" />
       <recent name="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/2 Classes and Objects/EXERCISE/05/ To-do List/project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05. Account">
-    <configuration name="01. Person" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programmig_PYTHON_SoftUni" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/LAB" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/4 Encapsulation/LAB/01. Person.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.exercise_plan">
     <configuration name="02. Mammal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Programmig_PYTHON_SoftUni" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,13 +221,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="exercise_plan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programmig_PYTHON_SoftUni" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/04 Gym/project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ADVANCED PYTHON/Python OOP/5 Static and Class Methods/EXERCISE/04 Gym/project/exercise_plan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercise_plan" />
         <item itemvalue="Python.05. Account" />
         <item itemvalue="Python.04. Email Validator" />
         <item itemvalue="Python.03. Profile" />
         <item itemvalue="Python.02. Mammal" />
-        <item itemvalue="Python.01. Person" />
       </list>
     </recent_temporary>
   </component>
@@ -224,54 +260,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695275761933</updated>
-    </task>
-    <task id="LOCAL-00103" summary="add">
-      <option name="closed" value="true" />
-      <created>1706989834610</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1706989834610</updated>
-    </task>
-    <task id="LOCAL-00104" summary="add">
-      <option name="closed" value="true" />
-      <created>1706989841458</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1706989841458</updated>
-    </task>
-    <task id="LOCAL-00105" summary="add">
-      <option name="closed" value="true" />
-      <created>1706990123163</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1706990123163</updated>
-    </task>
-    <task id="LOCAL-00106" summary="add">
-      <option name="closed" value="true" />
-      <created>1706990413351</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1706990413351</updated>
-    </task>
-    <task id="LOCAL-00107" summary="add">
-      <option name="closed" value="true" />
-      <created>1706994229615</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1706994229615</updated>
-    </task>
-    <task id="LOCAL-00108" summary="add">
-      <option name="closed" value="true" />
-      <created>1706997133203</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1706997133203</updated>
     </task>
     <task id="LOCAL-00109" summary="add">
       <option name="closed" value="true" />
@@ -617,7 +605,55 @@
       <option name="project" value="LOCAL" />
       <updated>1710155191534</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="add">
+      <option name="closed" value="true" />
+      <created>1710155276713</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1710155276713</updated>
+    </task>
+    <task id="LOCAL-00153" summary="add">
+      <option name="closed" value="true" />
+      <created>1710155283423</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1710155283423</updated>
+    </task>
+    <task id="LOCAL-00154" summary="add">
+      <option name="closed" value="true" />
+      <created>1710232503599</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1710232503599</updated>
+    </task>
+    <task id="LOCAL-00155" summary="add">
+      <option name="closed" value="true" />
+      <created>1710232519415</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1710232519415</updated>
+    </task>
+    <task id="LOCAL-00156" summary="add">
+      <option name="closed" value="true" />
+      <created>1710232527493</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1710232527493</updated>
+    </task>
+    <task id="LOCAL-00157" summary="add">
+      <option name="closed" value="true" />
+      <created>1710232533523</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1710232533523</updated>
+    </task>
+    <option name="localTasksCounter" value="158" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
