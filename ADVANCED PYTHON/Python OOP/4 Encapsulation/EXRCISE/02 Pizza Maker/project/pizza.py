@@ -1,6 +1,3 @@
-from project.dough import Dough
-from project.topping import Topping
-
 class Pizza:
     def __init__(self, name: str, dough, max_number_of_toppings: int):
         self.name = name
