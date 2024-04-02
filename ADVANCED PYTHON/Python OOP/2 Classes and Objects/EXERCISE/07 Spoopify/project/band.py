@@ -1,6 +1,5 @@
 from typing import List
 from project.album import Album
-from project.song import Song
 
 
 class Band:
