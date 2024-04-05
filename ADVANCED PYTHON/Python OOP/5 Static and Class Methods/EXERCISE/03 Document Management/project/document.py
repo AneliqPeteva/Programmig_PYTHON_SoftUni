@@ -1,7 +1,3 @@
-from project.topic import Topic
-from project.category import Category
-
-
 class Document:
     def __init__(self, c_id: int, category_id: int, topic_id: int, file_name: str):
         self.id = c_id
